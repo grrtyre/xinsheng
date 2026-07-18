@@ -1,0 +1,30 @@
+# 操作系统生成文件
+.DS_Store
+Thumbs.db
+desktop.ini
+*.lnk
+
+# 编辑器/IDE 文件
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# 临时文件
+*.tmp
+*.temp
+*.bak
+*.log
+
+# 下载缓存
+*.download
+*.crdownload
+
+# 不要忽略音乐文件本身（显式声明）
+!*.mp3
+!*.wav
+!*.flac
+!*.ogg
+!*.m4a
+!*.aac
